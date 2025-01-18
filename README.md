@@ -1,7 +1,10 @@
 
 
 
-<h1 align="center">Hi There, I'm Hala</h1>
+<h1 align="center">Hi There, I'm Hala 
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"><img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="30px" data-animated-image="" style="max-width: 100%;"></a></h2><a id="user-content--𝐇𝐞𝐥𝐥𝐨-t𝐡𝐞𝐫𝐞-im-ayman-" class="anchor" aria-label="Permalink:  𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞! I'm Ayman " href="#-𝐇𝐞𝐥𝐥𝐨-t𝐡𝐞𝐫𝐞-im-ayman-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">
+</h1>
 <p align="left" color="white">👋 Welcome to my GitHub profile!<br><br> “Code is like humor. When you have to explain it, it’s bad. 😎”<br> I’m passionate about writing clean, human-readable code that solves real-world problems.<br> Feel free to explore, contribute, or just say hi! Happy Coding! 😊</p>
 
 <a id="user-content--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
